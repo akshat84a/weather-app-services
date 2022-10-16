@@ -1,5 +1,3 @@
-console.log('Hello, Nice to meet you.')
-
 
 const wForm=document.querySelector('form')
 const sElement=document.querySelector('input')
